@@ -21,7 +21,7 @@ html, body {
 }
 
 body{
-	font: 130%/1.3 TrebuchetMS,Arial,sans-serif;  /* Default fonts */
+	font: 130%/1.3 Verdana,Arial,sans-serif;  /* Default fonts */
 	text-align: left; /* Alignment of the text */
 	color: black; /* Main text color */
 	background: white; /* Main text background color */
